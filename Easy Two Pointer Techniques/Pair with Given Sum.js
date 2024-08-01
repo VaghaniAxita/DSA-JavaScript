@@ -1,3 +1,0 @@
-const pairWithSum =(arr,target)=>{
-    
-}
